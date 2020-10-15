@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.rect_1
+{
+    width: 200px;
+    height: 100px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    color: white;
+}
+.rect_2
+{
+    width: 200px;
+    height: 100px;
+    background-color: yellowgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    color: white;
+}
+.rect_3
+{
+    width: 200px;
+    height: 100px;
+    background-color:red;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    color: white;
+}
